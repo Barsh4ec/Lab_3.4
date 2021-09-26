@@ -1,0 +1,14 @@
+﻿'Lab_3.4.exe' (Win32): Loaded 'C:\Users\User\source\repos\Lab_3.4\Debug\Lab_3.4.exe'. Symbols loaded.
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3618 has exited with code 0 (0x0).
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Lab_3.4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x21ac has exited with code 0 (0x0).
+The thread 0x35d4 has exited with code 0 (0x0).
+The program '[14108] Lab_3.4.exe' has exited with code 0 (0x0).
